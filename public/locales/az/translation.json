@@ -1,0 +1,242 @@
+{
+    "header": {
+        "0": "150 dollar və ya daha yuxarı sifarişlərdə pulsuz çatdırılma imkanı!",
+        "1": "Dil",
+        "2": "Başlıq",
+        "3": "ƏLAQƏ",
+        "4": "Suallarınız",
+        "5": "Ana Səhifə",
+        "6": "Alış-veriş",
+        "7": "İdarəetmə Paneli",
+        "8": "Haqqında"
+    },
+    "slide": {
+        "0": "ASUS Rog",
+        "1": "MAXIMUS IX",
+        "2": "Intel Z270 ATX oyun anakartı ilə Aura Sync RGB LED-ləri, DDR4 4133MHz,",
+        "3": "ikili M.2, USB 3.1 ön panel konnektoru və növü - A/C",
+        "4": "ALIŞVERİŞ EDİN",
+        "5": "Tensor Çekirdekleri",
+        "6": "NVIDIA TITAN V",
+        "7": "Yüksək performanslı GPU, AI və dərin öyrənmə vəzifələri üçün Tensor Çekirdekleri.",
+        "8": "ALIŞVERİŞ EDİN",
+        "9": "ATX Mid-Tower",
+        "10": "NZXT H440 CASE",
+        "11": "Tərzli ATX Mid-Tower kasası, mükəmməl soyutma imkanları və kabel idarəçiliyi.",
+        "12": "ALIŞVERİŞ EDİN"
+    },
+    "sectionOne": {
+        "0": "Kompüter",
+        "1": "Məhsullar",
+        "2": "Prosessor",
+        "3": "Məhsullar",
+        "4": "Klaviatura",
+        "5": "Məhsullar",
+        "6": "Siçan",
+        "7": "Məhsullar",
+        "8": "Noutbuk",
+        "9": "Məhsullar",
+        "10": "Qulaqcıq",
+        "11": "Məhsullar"
+    },
+    "Products": {
+        "0": "İdarəetmə tamamlandı",
+        "1": "Seçilmiş MƏHSULLAR",
+        "2": "Lorem Ipsum keçidlərinin bir çox variantı mövcuddur, lakin əksəriyyətində mövcuddur",
+        "3": "hər hansı formada dəyişikliyə məruz qalmış, inyeksiya yolu ilə.",
+        "4": "Hamısı"
+    },
+    "Processor": {
+        "0": "Özünü İnşa Et",
+        "1": "YENİ PC-nizi Yaradın",
+        "2": "Lorem Ipsum-un bir çox variantı mövcuddur, lakin əksəriyyəti",
+        "3": "bəzi formada dəyişikliklərə uğramışdır, zarafatlarla və ya təsadüfi mətnlərlə.",
+        "4": "10+ düymlük GPU",
+        "5": "Mauris blandit aliquet",
+        "6": "8 RAM SLOTU",
+        "7": "Cras ultricies ligula sed",
+        "8": "NÖVBƏTİ ADDIM",
+        "9": "PC-QUTUSU SEÇİN"
+    },
+    "PCabout": {
+        "0": "Peşəkarlar Kimi Oynayın",
+        "1": "Hazır PC Yığınları",
+        "2": "Lorem Ipsum-un bir çox variantı mövcuddur, lakin",
+        "3": "əksəriyyəti bəzi formada dəyişikliklərə uğramışdır, daxil edilmiş.",
+        "4": "LİTE YIĞINI",
+        "5": "hər ay",
+        "6": "İNDİ ALIN",
+        "7": "KORE YIĞINI",
+        "8": "PREMYUM YIĞINI",
+        "9": "PEŞƏ YIĞINI"
+    },
+    "VideoSection": {
+        "0": "Məhsulu Yığın",
+        "1": "ATIN",
+        "2": "AŞAĞI",
+        "3": "Lorem Ipsum-un bir çox variantı mövcuddur, lakin",
+        "4": "əksəriyyəti bəzi formada dəyişikliklərə uğramışdır, daxil edilmiş",
+        "5": "zarafatlar və ya heç bir şəkildə inandırıcı görünməyən təsadüfi sözlər.",
+        "6": "Əgər bir mətn istifadə edəcəksinizsə.",
+        "7": "ALİŞ-VERİŞ YAP"
+    },
+    "PictureDiv": {
+        "0": "GÜC VƏ GÖZƏLLİK",
+        "1": "BİR QUTUDA",
+        "2": "Lorem Ipsum-un bir çox variantı mövcuddur, lakin əksəriyyəti bəzi formada dəyişikliklərə uğramışdır, daxil edilmiş zarafatlar və ya heç bir şəkildə inandırıcı görünməyən təsadüfi sözlər.",
+        "3": "“Oxucu bir səhifənin oxunaqlı məzmununa baxarkən, diqqətinin yayılması uzun müddət təsdiqlənmiş bir faktdır.”",
+        "4": "Kate Abrams"
+    },
+    "ImagesSection": {
+        "0": "QURAŞDIRMADA GÜCLÜ",
+        "1": "OYUN QURAŞDIRMASI",
+        "2": "Lorem Ipsum-un bir çox variantı mövcuddur, lakin",
+        "3": "əksəriyyəti bəzi formada dəyişikliklərə uğramışdır, daxil edilmiş."
+    },
+    "Footer": {
+        "0": "Məzmunun tənzimlənməsi ilə əlaqədar",
+        "1": "parturient orci at scelerisque ilə bağlı",
+        "2": "parturient.",
+        "3": "451 Wall Street, Böyük Britaniya, London",
+        "4": "Telefon: (064) 332-1233",
+        "5": "Faks: (099) 453-1357",
+        "6": "SON YAZILAR",
+        "7": "Əlavə üçün bir yoldaş",
+        "8": "yuxu",
+        "9": "23 İyul 2016, 1 Şərh",
+        "10": "Əlavə üçün bir yoldaş",
+        "11": "yuxu",
+        "12": "23 İyul 2016, 1 Şərh",
+        "13": "FAYDALI LINKLAR",
+        "14": "Ana Səhifə",
+        "15": "Bizimlə Əlaqə",
+        "16": "Suallarınız",
+        "17": "ALİŞ-VERİŞ",
+        "18": "Daxil Ol/Qeydiyyatdan Keç",
+        "19": "Haqqında",
+        "20": "Mağazalarımız"
+    },
+    "ContactUs": {
+        "0": "Bizimlə Əlaqə",
+        "1": "Gəlin danışaq",
+        "2": "sizin layihəniz haqqında",
+        "3": "Aşağıdakı form vasitəsilə bizimlə əlaqə saxlayın, biz sizə geri dönəcəyik!",
+        "4": "Ad",
+        "5": "Soyad",
+        "6": "Nömrə",
+        "7": "Email",
+        "8": "Mesaj",
+        "9": "Göndər"
+    },
+    "FAQ": {
+        "0": "MƏQALƏLƏR",
+        "1": "SUALLARINIZ",
+        "2": "Tez-tez verilən suallar:",
+        "3": "Gamers Respublikası (ROG) nədir?",
+        "4": "ROG, yəni Gamers Respublikası,",
+        "5": " ASUS tərəfindən oyunçulara innovativ oyun məhsulları və təcrübələri təqdim etməyə həsr olunmuş bir markadır.",
+        "6": "ROG hansı məhsulları təklif edir?",
+        "7": "ROG geniş çeşidli məhsullar təqdim edir",
+        "8": " oyun noutbukları, masaüstü kompüterlər, ana platalar, qrafik kartları, monitorlar, periferal cihazlar və oyun həvəskarları üçün hazırlanmış aksessuarlar daxil olmaqla.",
+        "9": "ROG məhsullarını haradan ala bilərəm?",
+        "10": "ROG məhsullarını ala bilərsiniz",
+        "11": " ASUS-un rəsmi veb saytından, böyük onlayn satış nöqtələrindən və dünyada səlahiyyətli texnologiya mağazalarından.",
+        "12": "ROG məhsulları üçün hansı zəmanət variantları mövcuddur?",
+        "13": "ROG məhsulları adətən istehsalçı zəmanəti ilə birlikdə gəlir",
+        "14": "normal istifadə zamanı materialların və istehsalın qüsurlarını əhatə edir. Zəmanət detallarının regiona və məhsul tipinə görə dəyişə biləcəyini nəzərə alaraq, konkret şərtlər və qaydalar üçün ASUS-un rəsmi zəmanət siyasətini yoxlamaq tövsiyə olunur.",
+        "15": "ROG məhsulum üçün texniki dəstəyi necə ala bilərəm?",
+        "16": "ROG məhsulları üçün texniki dəstək",
+        "17": " ASUS-un müştəri dəstəyi xidmətləri vasitəsilə, onlayn resurslar, icma forumları və rəsmi veb saytlarında mövcud olan birbaşa müştəri xidməti əlaqə variantları ilə əldə edilə bilər."
+    },
+    "About": {
+        "0": "Gücü hiss edin.",
+        "1": "Bizim Hekayəmiz",
+        "2": "Hekayə başlayır …",
+        "3": "ASUS olacaq şirkətin ideyası",
+        "4": "Tayvanın Taipəy şəhərində bir kafedə bir neçə iddialı",
+        "5": "mühəndisin “kiçik və gözəl bir şirkət” yaratma arzusunu paylaşması ilə başladı.",
+        "6": "Səkkiz ay ərzində, bu mühəndislər Cache 386/33 və",
+        "7": "ISA 486/25 — sənaye lideri məhsullarda istifadə edilən iki fərdi kompüter ana kartı yaratdılar.",
+        "8": "IBM və ALR tərəfindən istehsal edilmişdir.",
+        "9": "Bu erkən ana kartların uğuru ilə Tayvan",
+        "10": "keyfiyyətli IT məhsullarının mərkəzi olaraq qlobal miqyasda tanındı.",
+        "11": "1989-cu ildən bəri, ASUS dünyanın ən yaxşı ana kartları ilə tanınan çoxmillətli bir şirkətdir.",
+        "12": "keyfiyyətli fərdi kompüterlər,",
+        "13": "monitorlar, qrafik kartları, marşrutlayıcılar və digər texnologiya həlləri. Bu gün,",
+        "14": "Milestones qeyd etmək … və cəsarətlə gələcəyə baxmaq",
+        "15": "21-ci əsrin ikinci onilliyi sona çatdıqda, ASUS 30 illik tarixi yenilik və mükafatlandırma ilə",
+        "16": "bir sıra tədbirlər və məhsul təqdimatları ilə qeyd etdi.",
+        "17": "Hər kəs üçün innovativ texnologiyalar yaratmaqda qürur verici ənənə.",
+        "18": "21-ci əsrin ikinci onilliyinə qədəm qoyarkən, ASUS rəhbərliyi yerli və qlobal icmalara müsbət təsir etmək imkanını tanıdı.",
+        "19": "Computex 2019 zamanı keçirilən xüsusi yubiley ilindəki",
+        "20": "dövrün önəmli tədbirində, sədri Jonney Shih təqdim etdi",
+        "21": "30 illik fəaliyyətini qeyd etmək üçün məhdud buraxılış seriyası olan cihazlar: ",
+        "22": "ZenFone 6 Edition 30, Zenbook Edition 30, Prime X299 Edition 30. Tədbir",
+        "23": "Prime Utopia konsepsiya ana kartını da təqdim etdi,",
+        "24": "yenilikçi yeni dizaynı ilə bir daha ASUS-u dünyanın 1 nömrəli ana kart istehsalçısı olaraq təsdiqlədi.",
+        "25": "Bu tədbirdə həmçinin 30 illik tarixi yenilik və mükafatlandırma ilə",
+        "26": "hər kəs üçün innovativ texnologiyalar yaratmaqda qürur verici bir ənənə.",
+        "27": "ASUS idarəetməsi, davamlılıq ilə bağlı təşəbbüslər vasitəsilə yerli və qlobal icmalara müsbət təsir etmə imkanı olduğunu tanıdı."
+    },
+    "Wishlist": {
+        "0": "İstək Siyahısı"
+    },
+    "Login": {
+        "0": "Daxil ol",
+        "1": "E-poçt ünvanı",
+        "2": "Şifrə",
+        "3": "Daxil ol",
+        "4": "Hesabınız yoxdur?",
+        "5": "Qeydiyyat"
+    },
+    "Register": {
+        "0": "Qeydiyyat",
+        "1": "Tam Ad",
+        "2": "Telefon Nömrəsi",
+        "3": "E-poçt Ünvanı",
+        "4": "Şifrə",
+        "5": "Şifrəni Təsdiqləyin",
+        "6": "Qeydiyyatdan Keç",
+        "7": "Artıq hesabınız var?"
+    },
+    "Basket": {
+        "0": "Səbət",
+        "1": "Şəkil",
+        "2": "Başlıq",
+        "3": "Qiymət",
+        "4": "Miqdar",
+        "5": "Sil",
+        "6": "İndi Al",
+        "7": "Hamısını Təmizlə"
+    },
+    "Dashboard": {
+        "0": "İdarə Paneli",
+        "1": "Əlavə et",
+        "2": "Şəkil",
+        "3": "Başlıq",
+        "4": "Təsvir",
+        "5": "Qiymət",
+        "6": "Düzəliş et",
+        "7": "Sil",
+        "8": "Düzəliş et",
+        "9": "Sil"
+    },
+    "EditPro": {
+        "0": "Məhsulu Düzəliş Et"
+    },
+    "AddPro": {
+        "0": "Məhsul Əlavə Et"
+    },
+    "Details": {
+        "0": "Təfərrüatlar",
+        "1": "Qiymət:",
+        "2": "Geri"
+    },
+    "Account":{
+        "0": "HESAB",
+        "1": "Tam Ad",
+        "2": "Şifrə",
+        "3": "E-poçt",
+        "4": "Çıxış Et"
+    }
+}
